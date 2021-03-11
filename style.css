@@ -1,0 +1,32 @@
+html{
+    cursor: url('images/Untitled.png'), pointer;
+}
+
+body {
+    text-align: center;
+    display: grid;
+    justify-content: center;
+    background-image: url("images/original.jpg");
+    background-color: #cccccc;
+    background-size: 10px;
+    cursor: url('images/Untitled.png'), pointer;
+}
+
+
+
+#button{
+    margin: 25px solid black;
+    height: 30px;
+    width: 100px;
+    justify-content: center;
+    align-items: center;
+}
+
+#georgeButton {
+    position: absolute;
+}
+
+p{
+    border: 5px solid white;
+    background-color: white;
+}

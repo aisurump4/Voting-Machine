@@ -1,0 +1,16 @@
+body{
+    background-image: url("images/download.jpg");
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    border: 10px solid red;
+    background-color: red;
+    text-align: center;
+    justify-content: center;
+}
+
+.voteBtn {
+    text-align: center;
+}
